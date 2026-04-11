@@ -1,0 +1,99 @@
+user_input,intent,answer,cleaned_input,intent_label
+What are the office working hours?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",what are the office working hours,6
+What time does the office open?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",what time does the office open,6
+When does the workday end?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",when does the workday end,6
+What are the office timings?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",what are the office timings,6
+Is there flexible timing for interns?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",is there flexible timing for interns,6
+Can I work from home?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",can i work from home,6
+What days do we work?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",what days do we work,6
+Do we work on Saturdays?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",do we work on saturdays,6
+Is Sunday a holiday?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",is sunday a holiday,6
+What is the lunch break timing?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",what is the lunch break timing,6
+How many hours do interns work daily?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",how many hours do interns work daily,6
+Can I leave early sometimes?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",can i leave early sometimes,6
+Are there any half days?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",are there any half days,6
+What time should I arrive at the office?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",what time should i arrive at the office,6
+How do I apply for leave?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,how do i apply for leave,4
+How many leaves do I get as an intern?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,how many leaves do i get as an intern,4
+Can I take a day off?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,can i take a day off,4
+Who approves my leave?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,who approves my leave,4
+What is the leave policy for interns?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,what is the leave policy for interns,4
+How much notice do I need to give for leave?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,how much notice do i need to give for leave,4
+Can I take emergency leave?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,can i take emergency leave,4
+I am sick and cannot come to office,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,i am sick and cannot come to office,4
+How do I inform about my absence?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,how do i inform about my absence,4
+Is medical leave paid?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,is medical leave paid,4
+Can I take leave in my first week?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,can i take leave in my first week,4
+How do I fill the leave application form?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,how do i fill the leave application form,4
+What counts as an excused absence?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,what counts as an excused absence,4
+Can I take half day leave?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,can i take half day leave,4
+When will I receive my stipend?,stipend_query,Intern stipends are processed on the 25th of every month.,when will i receive my stipend,5
+How much is the intern stipend?,stipend_query,Intern stipends are processed on the 25th of every month.,how much is the intern stipend,5
+When is payday?,stipend_query,Intern stipends are processed on the 25th of every month.,when is payday,5
+I have not received my salary yet,stipend_query,Intern stipends are processed on the 25th of every month.,i have not received my salary yet,5
+How do I submit my bank details?,stipend_query,Intern stipends are processed on the 25th of every month.,how do i submit my bank details,5
+When does salary get credited?,stipend_query,Intern stipends are processed on the 25th of every month.,when does salary get credited,5
+What is the payment date for interns?,stipend_query,Intern stipends are processed on the 25th of every month.,what is the payment date for interns,5
+Is the stipend paid weekly or monthly?,stipend_query,Intern stipends are processed on the 25th of every month.,is the stipend paid weekly or monthly,5
+Do interns get paid for overtime?,stipend_query,Intern stipends are processed on the 25th of every month.,do interns get paid for overtime,5
+Will I get a pay slip?,stipend_query,Intern stipends are processed on the 25th of every month.,will i get a pay slip,5
+Is the stipend taxable?,stipend_query,Intern stipends are processed on the 25th of every month.,is the stipend taxable,5
+How do I check if my salary is credited?,stipend_query,Intern stipends are processed on the 25th of every month.,how do i check if my salary is credited,5
+My stipend amount is incorrect,stipend_query,Intern stipends are processed on the 25th of every month.,my stipend amount is incorrect,5
+Do I get travel allowance?,stipend_query,Intern stipends are processed on the 25th of every month.,do i get travel allowance,5
+My laptop is not working,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,my laptop is not working,3
+How do I get my laptop set up?,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,how do i get my laptop set up,3
+Who do I contact for IT issues?,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,who do i contact for it issues,3
+I cannot connect to the office wifi,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,i cannot connect to the office wifi,3
+Where is the IT helpdesk?,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,where is the it helpdesk,3
+My computer is not turning on,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,my computer is not turning on,3
+I need a software installed on my laptop,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,i need a software installed on my laptop,3
+The office printer is not working,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,the office printer is not working,3
+How do I connect to the VPN?,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,how do i connect to the vpn,3
+I need access to the company drive,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,i need access to the company drive,3
+My screen is broken,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,my screen is broken,3
+Which software do I need for my work?,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,which software do i need for my work,3
+I cannot access my work emails,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,i cannot access my work emails,3
+How do I join the office Slack?,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,how do i join the office slack,3
+I forgot my password,credential_issue,Your login credentials are sent to your personal email before joining.,i forgot my password,0
+I have not received my login credentials,credential_issue,Your login credentials are sent to your personal email before joining.,i have not received my login credentials,0
+How do I reset my password?,credential_issue,Your login credentials are sent to your personal email before joining.,how do i reset my password,0
+I cannot log into my work account,credential_issue,Your login credentials are sent to your personal email before joining.,i cannot log into my work account,0
+My email account is not working,credential_issue,Your login credentials are sent to your personal email before joining.,my email account is not working,0
+I did not get my office email yet,credential_issue,Your login credentials are sent to your personal email before joining.,i did not get my office email yet,0
+How do I access the company portal?,credential_issue,Your login credentials are sent to your personal email before joining.,how do i access the company portal,0
+My account is locked,credential_issue,Your login credentials are sent to your personal email before joining.,my account is locked,0
+I am getting an invalid password error,credential_issue,Your login credentials are sent to your personal email before joining.,i am getting an invalid password error,0
+How long does it take to get credentials?,credential_issue,Your login credentials are sent to your personal email before joining.,how long does it take to get credentials,0
+I never received my welcome email,credential_issue,Your login credentials are sent to your personal email before joining.,i never received my welcome email,0
+Can I change my work email password?,credential_issue,Your login credentials are sent to your personal email before joining.,can i change my work email password,0
+I cannot log into the HR portal,credential_issue,Your login credentials are sent to your personal email before joining.,i cannot log into the hr portal,0
+My two factor authentication is not working,credential_issue,Your login credentials are sent to your personal email before joining.,my two factor authentication is not working,0
+What is the dress code?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,what is the dress code,2
+What should I wear to the office?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,what should i wear to the office,2
+What is the intern code of conduct?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,what is the intern code of conduct,2
+How do I get my internship certificate?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,how do i get my internship certificate,2
+Will I get a letter of recommendation?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,will i get a letter of recommendation,2
+What happens at the end of internship?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,what happens at the end of internship,2
+Can my internship be extended?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,can my internship be extended,2
+Is there a probation period for interns?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,is there a probation period for interns,2
+Will I get a performance review?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,will i get a performance review,2
+What are the rules for interns?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,what are the rules for interns,2
+Can my internship convert to a full time job?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,can my internship convert to a full time job,2
+What is the confidentiality policy?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,what is the confidentiality policy,2
+Do I need to sign an NDA?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,do i need to sign an nda,2
+What documents do I need to submit on joining?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,what documents do i need to submit on joining,2
+Who is my supervisor?,general_query,Your assigned buddy is your first point of contact.,who is my supervisor,1
+Who do I talk to if I have a problem?,general_query,Your assigned buddy is your first point of contact.,who do i talk to if i have a problem,1
+How do I reach HR?,general_query,Your assigned buddy is your first point of contact.,how do i reach hr,1
+Where is the HR office?,general_query,Your assigned buddy is your first point of contact.,where is the hr office,1
+Who is my point of contact?,general_query,Your assigned buddy is your first point of contact.,who is my point of contact,1
+How do I get my ID card?,general_query,Your assigned buddy is your first point of contact.,how do i get my id card,1
+Where do I park my vehicle?,general_query,Your assigned buddy is your first point of contact.,where do i park my vehicle,1
+How do I get access to the office building?,general_query,Your assigned buddy is your first point of contact.,how do i get access to the office building,1
+Is there a cafeteria in the office?,general_query,Your assigned buddy is your first point of contact.,is there a cafeteria in the office,1
+What is the office address?,general_query,Your assigned buddy is your first point of contact.,what is the office address,1
+Is there a gym or recreational area?,general_query,Your assigned buddy is your first point of contact.,is there a gym or recreational area,1
+How do I get my access card?,general_query,Your assigned buddy is your first point of contact.,how do i get my access card,1
+Who do I contact in case of an emergency?,general_query,Your assigned buddy is your first point of contact.,who do i contact in case of an emergency,1
+Is there a buddy program for new interns?,general_query,Your assigned buddy is your first point of contact.,is there a buddy program for new interns,1
