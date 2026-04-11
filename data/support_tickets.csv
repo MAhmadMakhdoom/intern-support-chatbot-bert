@@ -1,0 +1,36 @@
+user_input,intent,answer,cleaned_input,intent_label
+What time should I be in office?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",what time should i be in office,6
+Are we working this Saturday?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",are we working this saturday,6
+Do interns have flexible hours?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",do interns have flexible hours,6
+When does lunch break start?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",when does lunch break start,6
+Is Friday a half day?,working_hours,"Core working hours are 9am to 6pm, Monday to Friday.",is friday a half day,6
+I have a family emergency can I take leave tomorrow?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,i have a family emergency can i take leave tomorrow,4
+How do I fill leave form online?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,how do i fill leave form online,4
+My leave was rejected what should I do?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,my leave was rejected what should i do,4
+Can I take leave without prior notice?,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,can i take leave without prior notice,4
+I need a sick day today,leave_request,Submit a leave request through the HR portal at least 3 days in advance.,i need a sick day today,4
+Its the 27th and I have not received my stipend,stipend_query,Intern stipends are processed on the 25th of every month.,its the 27th and i have not received my stipend,5
+My bank account details changed how do I update them?,stipend_query,Intern stipends are processed on the 25th of every month.,my bank account details changed how do i update them,5
+Will I get paid for the extra hours I worked?,stipend_query,Intern stipends are processed on the 25th of every month.,will i get paid for the extra hours i worked,5
+I did not receive my payslip this month,stipend_query,Intern stipends are processed on the 25th of every month.,i did not receive my payslip this month,5
+When exactly will salary hit my account?,stipend_query,Intern stipends are processed on the 25th of every month.,when exactly will salary hit my account,5
+My laptop screen is flickering,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,my laptop screen is flickering,3
+I cannot install the required software on my machine,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,i cannot install the required software on my machine,3
+Office wifi keeps disconnecting,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,office wifi keeps disconnecting,3
+My keyboard is not working properly,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,my keyboard is not working properly,3
+I need access to the shared company drive,it_support,Visit the IT helpdesk on Floor 2 with your employee ID.,i need access to the shared company drive,3
+I never received my login details before joining,credential_issue,Your login credentials are sent to your personal email before joining.,i never received my login details before joining,0
+My password expired on day one,credential_issue,Your login credentials are sent to your personal email before joining.,my password expired on day one,0
+I am locked out of my account after 3 wrong attempts,credential_issue,Your login credentials are sent to your personal email before joining.,i am locked out of my account after 3 wrong attempts,0
+Two factor authentication code is not arriving,credential_issue,Your login credentials are sent to your personal email before joining.,two factor authentication code is not arriving,0
+I cannot access the HR portal with my credentials,credential_issue,Your login credentials are sent to your personal email before joining.,i cannot access the hr portal with my credentials,0
+What documents should I bring on my first day?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,what documents should i bring on my first day,2
+Will I receive a certificate after internship ends?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,will i receive a certificate after internship ends,2
+Is there a chance of getting hired full time?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,is there a chance of getting hired full time,2
+What is the NDA policy for interns?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,what is the nda policy for interns,2
+Can I share company information on LinkedIn?,hr_policy,Interns follow business casual dress code. Sign NDA on day one.,can i share company information on linkedin,2
+Where do I sit on my first day?,general_query,Your assigned buddy is your first point of contact.,where do i sit on my first day,1
+How do I get my access card for the building?,general_query,Your assigned buddy is your first point of contact.,how do i get my access card for the building,1
+Is there a cafeteria in the office building?,general_query,Your assigned buddy is your first point of contact.,is there a cafeteria in the office building,1
+Who do I report to if my supervisor is absent?,general_query,Your assigned buddy is your first point of contact.,who do i report to if my supervisor is absent,1
+How do I get my intern ID card made?,general_query,Your assigned buddy is your first point of contact.,how do i get my intern id card made,1
